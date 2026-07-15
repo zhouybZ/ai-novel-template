@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 临时文件
+temp/
+*.tmp
+*.log
+*.bak
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Node
+node_modules/
+
+# QoderWork / AI 临时输出
+.qoder/
+.workbuddy/
+.codex/
